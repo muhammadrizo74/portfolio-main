@@ -341,6 +341,7 @@ display: block;
         margin-top: 100px;
         font-size: 16px;
         color: #000;
+        display: none;
     }
     .header_text h1{
         font-size: 30px;
